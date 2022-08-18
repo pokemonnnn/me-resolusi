@@ -1,0 +1,7 @@
+rencana depan me
+
+- Javascript
+  1.mengetahui syntax
+  2.framework
+- PHP
+- Ngobar
