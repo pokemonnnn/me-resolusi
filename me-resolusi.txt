@@ -2,3 +2,4 @@ Me Resolusi
 - Konsisten Ngoding
 - Membuat money dari codingan
 - Membuat Project
+- Membuat Start Up
